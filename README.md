@@ -1,18 +1,19 @@
+--------------------
 ### Hi there, I'm ARDINAZER112
 
 I am an aspiring web developer who is currently learning and building projects with modern web technologies. I am learning and improving my programming skills.
-
+-----------------
 **Currently focused on**:
 - Learning the basics of backend and frontend development
 - Building web applications with HTML, CSS, and JavaScript
 - Understanding the basics of Node.js, PHP, and Electron.js
 - Learning and understanding the Linux command line
 - Learning more about web development, specifically HTML, CSS, JavaScript, and PHP
-
+-----------------
 ### Learning ###
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-
+--------------
 ## Skills
 
 #### Languages:
@@ -22,7 +23,7 @@ I am an aspiring web developer who is currently learning and building projects w
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 
-##### advanced: 
+##### language advanced: 
 '-
 --------------------
 #### Technologies I'm Learning
@@ -58,6 +59,7 @@ I am an aspiring web developer who is currently learning and building projects w
   alt="YouTube"/>
   </a>
 </p>
+---------------------
 <!--
 **ARDINAZER112/ARDINAZER112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
