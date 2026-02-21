@@ -2,7 +2,7 @@
 ### Hi there, I'm ARDINAZER112
 
 I am an aspiring web developer who is currently learning and building projects with modern web technologies. I am learning and improving my programming skills.
------------------
+-------------------
 **Currently focused on**:
 - Learning the basics of backend and frontend development
 - Building web applications with HTML, CSS, and JavaScript
@@ -59,7 +59,6 @@ I am an aspiring web developer who is currently learning and building projects w
   alt="YouTube"/>
   </a>
 </p>
----------------------
 <!--
 **ARDINAZER112/ARDINAZER112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
