@@ -61,6 +61,10 @@ I am an aspiring web developer who is currently learning and building projects w
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"
   alt="YouTube"/>
   </a>
+     <a href="https://luxinesid.my.id" target="_blank">
+  <img src="https://img.shields.io/badge/Luxines-ID-red"
+  alt="YouTube"/>
+  </a>
 </p>
 <!--
 **ARDINAZER112/ARDINAZER112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
