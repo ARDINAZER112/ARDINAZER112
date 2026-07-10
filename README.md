@@ -39,7 +39,7 @@ I am an aspiring web developer who is currently learning and building projects w
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![VSCodium](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium)](#)
+[![VSCodium](https://shields.io/badge/-Vscodium-93f6ef?logo=vscodium)](#)
 --------------------
 ## Connect with me
 
