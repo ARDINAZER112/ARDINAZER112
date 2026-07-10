@@ -26,7 +26,7 @@ I am an aspiring web developer who is currently learning and building projects w
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 
 ##### language advanced: 
-'>_
+'>_ Nothing Here
 --------------------
 #### Technologies I'm Learning
 
