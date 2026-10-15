@@ -28,11 +28,11 @@ I am an aspiring web developer who is currently learning and building projects w
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 ###### Language Basics:
-Vanilla_JavaScript: (########___________) 40%
-JSON:               (##############_____) 70%
-HTML:               (################___) 85%
-CSS:                (###############____) 75%
-Python:             (############_______) 65%
+Vanilla_JavaScript: (########___________) 40%  
+JSON:               (##############_____) 70%  
+HTML:               (################___) 85%  
+CSS:                (###############____) 75%  
+Python:             (############_______) 65%  
 ##### language advanced: 
 '>_ Sorry,I have not fully mastered any programming language
 --------------------
