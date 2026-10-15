@@ -34,7 +34,8 @@ JSON:               (##############_____) 70%<br>
 HTML:               (################___) 85%<br>
 CSS:                (###############____) 75%<br>
 Python:             (############_______) 65%<br>
-</details>
+</details>  
+
 ##### language advanced: 
 '>_ Sorry,I have not fully mastered any programming language
 --------------------
