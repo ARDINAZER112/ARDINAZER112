@@ -16,6 +16,7 @@ I am an aspiring web developer who is currently learning and building projects w
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Express.JS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)](#)
+[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](#)
 --------------
 ## Skills
 
@@ -36,6 +37,7 @@ I am an aspiring web developer who is currently learning and building projects w
 [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![Express.JS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)](#)
+[![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](#)
 ---------------------
 #### Development Tools
 
